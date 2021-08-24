@@ -2,7 +2,7 @@
 
 ## 선명한: 팀장
     - github : Sunmyunghan
-    - 코딩을 잘함.
+    - 조활동마다 매번 적극적으로 참여함.
   
 ## 유병철: 팀원
     - github : bcyoo
